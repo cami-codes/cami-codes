@@ -1,10 +1,3 @@
-## Seja bem-vinde! Me chamo Camila.
-
-💻 Faço parte da turma 53 do bootcamp Generation Brasil.
-
-- 😄 Pronomes: Ela/Dela
-
-
 <div>
   <h1 align="center">Seja bem-vinde! Me chamo <a href="linkedin.com/in/camila-martins-a48138238/"><i>Camila Martins</i></a> 🥰</h1>
   <p align="center">Faço parte da turma 53 do bootcamp da <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a> 
