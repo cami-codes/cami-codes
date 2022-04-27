@@ -1,8 +1,8 @@
 <div>
-  <h1 align="center">Seja bem-vinde! Me chamo <a href="linkedin.com/in/camila-martins-a48138238/"><i>Camila Martins</i></a> 🥰</h1>
-  <p align="center">Faço parte da turma 53 do bootcamp da <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a> 
-  </a><br>
-  <p align="center">Pronomes: Ela/Dela 🏳️‍🌈</h2>
+  <h1 align="center">Seja bem vinde! Me chamo <a href="https://www.linkedin.com/in/camila-martins-a48138238/"><i>Camila Martins</i></a> 🥰</h1>
+  <p align="center">Faço parte da turma 53 do bootcamp da <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a> e estou aprendendo Java Web Fullstack!
+
+  <p align="center">Pronomes: Ela/Dela 🏳️‍🌈 😉️</h2>
 </div>
 
 <div align="center">
