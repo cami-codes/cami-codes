@@ -1,14 +1,17 @@
 <div>
   <h1 align="center">Seja bem vinde! Me chamo <a href="https://www.linkedin.com/in/camila-martins-a48138238/"><i>Camila Martins</i></a> 🥰</h1>
   <p align="center">Faço parte da turma 53 do bootcamp da <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a> e estou aprendendo Java Web Fullstack!
-
-  <p align="center">Pronomes: Ela/Dela 🏳️‍🌈 😉️</h2>
+  </a><br>
+  <p align="center">Pronomes: Ela/Dela 🏳️‍🌈 </h2>
 </div>
+
+
+
 
 <div align="center">
   <a href="https://github.com/cami-codes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cami-codes&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cami-codes&theme=dracula&hide_border=false&&layout=compact"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cami-codes&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cami-codes&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -30,9 +33,12 @@
 </div>
 
 <div align="center">
-  </div>
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
+<div align="center">
+  <p>:heart: </p>
+ 
+</div>
