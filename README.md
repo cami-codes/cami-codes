@@ -13,8 +13,10 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=pt-br&hide_border=false&username=cami-codes" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false&username=cami-codes" height="150" alt="languages graph"  />
+  <a href="https://github.com/cami-codes">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cami-codes&count_private=true&include_all_commits=true&show_icons=true&theme=ayu-mirage&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cami-codes&theme=ayu-mirage&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 ###
