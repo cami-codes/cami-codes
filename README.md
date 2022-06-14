@@ -49,12 +49,6 @@
 ###
 ![Snake animation](https://github.com/cami-codes/cami-codes/blob/output/github-contribution-grid-snake.svg)
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/cami-codes/count.svg?"  />
-</div>
-
-
 
 ###
 <div align="center">
@@ -66,5 +60,11 @@
 ###
 <div align="center">
   <p>:heart: </p>
+  
+  ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cami-codes/count.svg?"  />
+</div>
+
 
 ###
