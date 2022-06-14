@@ -6,10 +6,6 @@
 ###
 <h4 align="center">Pronomes: Ela/Dela 🏳️‍🌈</h4>
 
-###
-<div align="center">
-  <img height="200" src="https://i.imgur.com/ALGO4PK.gif"  />
-</div>
 
 ###
 <div align="center">
@@ -17,6 +13,11 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cami-codes&count_private=true&include_all_commits=true&show_icons=true&theme=ayu-mirage&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cami-codes&theme=ayu-mirage&hide_border=false&&layout=compact"/>
   </a>
+</div>
+  
+  ###
+<div align="center">
+  <img height="200" src="https://i.imgur.com/ALGO4PK.gif"  />
 </div>
 
 ###
