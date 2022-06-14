@@ -1,44 +1,68 @@
-<div>
-  <h1 align="center">Seja bem vinde! Me chamo <a href="https://www.linkedin.com/in/camila-martins-a48138238/"><i>Camila Martins</i></a> 🥰</h1>
-  <p align="center">Faço parte da turma 53 do bootcamp da <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a> e estou aprendendo Java Web Fullstack!
-  </a><br>
-  <p align="center">Pronomes: Ela/Dela 🏳️‍🌈 </h2>
+<h1 align="center">Seja bem vinde! Me chamo <a href="https://www.linkedin.com/in/camila-martins-a48138238/"><i>Camila Martins</i></a> 🥰</h1>
+
+###
+<h3 align="center">Faço parte da turma 53 do bootcamp da <a href="https://brazil.generation.org/"><i>Generation Brasil</i></a> e estou aprendendo Java Web Fullstack!
+
+###
+<h4 align="center">Pronomes: Ela/Dela 🏳️‍🌈</h4>
+
+###
+<div align="center">
+  <img height="200" src="https://i.imgur.com/ALGO4PK.gif"  />
 </div>
 
-
-
-
+###
 <div align="center">
-  <a href="https://github.com/cami-codes">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cami-codes&count_private=true&include_all_commits=true&show_icons=true&theme=react&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cami-codes&theme=react&hide_border=false&&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=pt-br&hide_border=false&username=cami-codes" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false&username=cami-codes" height="150" alt="languages graph"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+</div>
+
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/camila-martins-a48138238/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/955817022229479484" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:camilarmartins24@gmail.co" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div><br>
+###
+<img href="https://github.com/cami-codes/cami-codes/blob/output/snake.svg" alt="Snake animation" />
 
+###
 <div align="center">
- <a href="https://steamcommunity.com/id/yukki26/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  <a href="https://www.linkedin.com/in/camila-martins-a48138238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:camilarmartins24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://profile-counter.glitch.me/cami-codes/count.svg?"  />
 </div>
 
+
+
+###
 <div align="center">
-  
-  ![Snake animation](https://github.com/cami-codes/cami-codes/blob/output/github-contribution-grid-snake.svg)
-  
+  <a href="https://open.spotify.com/user/jauregay3">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jauregay3&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
+###
 <div align="center">
   <p>:heart: </p>
- 
-</div>
+
+###
