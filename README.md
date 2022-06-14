@@ -6,7 +6,11 @@
 ###
 <h4 align="center">Pronomes: Ela/Dela 🏳️‍🌈</h4>
 
-
+  ###
+<div align="center">
+  <img height="200" src="https://i.imgur.com/ALGO4PK.gif"  />
+</div>
+  
 ###
 <div align="center">
   <a href="https://github.com/cami-codes">
@@ -15,10 +19,6 @@
   </a>
 </div>
   
-  ###
-<div align="center">
-  <img height="200" src="https://i.imgur.com/ALGO4PK.gif"  />
-</div>
 
 ###
 <div align="center">
