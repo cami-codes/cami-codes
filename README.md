@@ -50,14 +50,6 @@
 ###
 ![Snake animation](https://github.com/cami-codes/cami-codes/blob/output/github-contribution-grid-snake.svg)
 
-
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/jauregay3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jauregay3&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 <div align="center">
   <p>:heart: </p>
