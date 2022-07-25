@@ -5,16 +5,18 @@
 <h2 align="left">Sobre mim</h2>
 
 ###
-
+<img align="right" height="150" src="https://i.imgflip.com/6nw7x1.gif"  />
 <p align="left">👩🏾‍🎓 Participei da turma 53 do bootcamp da Generation Brasil<br><br>⭐ Atualmente sou Desenvolvedora Java Web Fullstack Jr.<br><br>🎯 Objetivo: Desenvolver minhas habilidades cada vez mais!</p>
 
 ###
 
 <h2 align="left">Projetos Fullstack desenvolvidos durante o bootcamp:</h2>
 
+
 ###
 
 <p align="left">Zero Waste: https://zerowasteg.netlify.app/<br><br>Blog Pessoal: https://cami-blog.netlify.app/<br><br>Fique a vontade para explorar meus outros projetos!</p>
+
 
 ###
 
@@ -57,7 +59,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/6nw7x1.gif"  />
+
 
 ###
 
