@@ -57,7 +57,6 @@
   </a>
 </div>
 
-
 ![Snake animation](https://github.com/cami-codes/cami-codes/blob/output/github-contribution-grid-snake.svg)
 
 ###
