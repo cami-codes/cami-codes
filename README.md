@@ -19,8 +19,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&username=cami-codes" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=cami-codes" height="150" alt="languages graph"  />
+  <a href="https://github.com/cami-codes">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cami-codes&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark&hide_border=true&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cami-codes&theme=vue-dark&hide_border=true&&layout=compact"/>
+  </a>
 </div>
 
 ###
@@ -61,6 +63,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/cami-codes/cami-codes/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/cami-codes/cami-codes/blob/output/github-contribution-grid-snake.svg)
 
 ###
