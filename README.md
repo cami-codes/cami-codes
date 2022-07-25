@@ -29,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
@@ -45,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/955817022229479484" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -57,13 +57,6 @@
   </a>
 </div>
 
-###
-
-
-
-###
-
-<br clear="both">
 
 ![Snake animation](https://github.com/cami-codes/cami-codes/blob/output/github-contribution-grid-snake.svg)
 
