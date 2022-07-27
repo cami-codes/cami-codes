@@ -1,12 +1,8 @@
-<h1 align="left">Olá 👋 Me chamo <a href="https://www.linkedin.com/in/camila-martins-a48138238/"><i>Camila Martins</i></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=273849&height=180&section=header&text=Camila Martins &fontSize=30&fontColor=3da47a&animation=twinkling&fontAlignY=35"/>
 
-###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-<img align="right" height="150" src="https://i.imgflip.com/6nw7x1.gif"  />
-<p align="left">👩🏾‍🎓 Participei da turma 53 do bootcamp da Generation Brasil<br><br>⭐ Atualmente sou Desenvolvedora Java Web Fullstack Jr.<br><br>🎯 Objetivo: Desenvolver minhas habilidades cada vez mais!</p>
+### 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da47a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+CAMILA+MARTINS;TENHO+21+ANOS;PARTICIPEI+DO+BOOTCAMP+DA+GENERATION+BRASIL;SOU+DE+SÃO+PAULO+SP;HOJE+SOU+DESENVOLVEDORA+JAVA+WEB+FULLSTACK;SEJA+BEM+VINDO!+♥)](https://git.io/typing-svg)
 
 ###
 
