@@ -3,11 +3,11 @@
 
 ### 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da47a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+CAMILA+MARTINS;TENHO+21+ANOS;PARTICIPEI+DO+BOOTCAMP+DA+GENERATION+BRASIL;SOU+DE+SÃO+PAULO+SP;HOJE+SOU+DESENVOLVEDORA+JAVA+WEB+FULLSTACK;SEJA+BEM+VINDO!+♥)](https://git.io/typing-svg)
-
+<img align="right" height="150" src="https://i.imgflip.com/6nw7x1.gif"  />
 ###
 
 <h2 align="left">Projetos Fullstack desenvolvidos durante o bootcamp:</h2>
-<img align="right" height="150" src="https://i.imgflip.com/6nw7x1.gif"  />
+
 
 ###
 
@@ -52,6 +52,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+
 
 ![Snake animation](https://github.com/cami-codes/cami-codes/blob/output/github-contribution-grid-snake.svg)
 
