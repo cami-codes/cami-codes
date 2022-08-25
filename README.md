@@ -6,7 +6,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/6nw7x1.gif"  />
 ###
 
-<h2 align="left">Projetos Fullstack desenvolvidos durante o bootcamp:</h2>
+<h2 align="left">Projetos Fullstack desenvolvidos:</h2>
 
 
 ###
