@@ -1,18 +1,19 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=273849&height=180&section=header&text=Camila Martins &fontSize=30&fontColor=3da47a&animation=twinkling&fontAlignY=35"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=273849&height=180&section=header&text=Camila%20Martins&fontSize=30&fontColor=3da47a&animation=twinkling&fontAlignY=35">
 
 
 ### 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da47a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+CAMILA+MARTINS;TENHO+21+ANOS;PARTICIPEI+DO+BOOTCAMP+DA+GENERATION+BRASIL;SOU+DE+SÃO+PAULO+SP;HOJE+SOU+DESENVOLVEDORA+JAVA+WEB+FULLSTACK;SEJA+BEM+VINDO!+♥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da47a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+CAMILA+MARTINS;TENHO+21+ANOS;PARTICIPEI+DO+BOOTCAMP+DA+GENERATION+BRASIL;HOJE+SOU+DESENVOLVEDORA+JAVA+WEB+FULLSTACK;SEJA+BEM+VINDO!+♥)](https://git.io/typing-svg)
 <img align="right" height="150" src="https://i.imgflip.com/6nw7x1.gif"  />
 ###
 
-<h2 align="left">Projetos Fullstack desenvolvidos:</h2>
+<h2 align="left">Mais sobre mim:</h2>
 
 
 ###
 
-<p align="left">Zero Waste: https://zerowasteg.netlify.app/<br><br>Blog Pessoal: https://cami-blog.netlify.app/<br><br>Fique a vontade para explorar meus outros projetos!</p>
-
+- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas no Centro Acadêmico <i>FMU</i>
+- 💻 Meu portfólio: https://portfolio-camila.netlify.app
+- 😄 Pronomes: Ela/Dela
 
 ###
 
