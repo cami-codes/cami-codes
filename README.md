@@ -2,7 +2,7 @@
 
 
 ### 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da47a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+CAMILA+MARTINS;TENHO+21+ANOS;PARTICIPEI+DO+BOOTCAMP+DA+GENERATION+BRASIL;HOJE+SOU+DESENVOLVEDORA+JAVA+WEB+FULLSTACK;SEJA+BEM+VINDO!+♥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da47a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+CAMILA+MARTINS;TENHO+22+ANOS;PARTICIPEI+DO+BOOTCAMP+DA+GENERATION+BRASIL;HOJE+SOU+DESENVOLVEDORA+JAVA+WEB+FULLSTACK;SEJA+BEM+VINDO!+♥)](https://git.io/typing-svg)
 <img align="right" height="150" src="https://i.imgflip.com/6nw7x1.gif"  />
 ###
 
