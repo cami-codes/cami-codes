@@ -2,16 +2,14 @@
 
 
 ### 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da47a&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+CAMILA+MARTINS;TENHO+22+ANOS;TRABALHO+COMO+DESENVOLVEDORA+FRONT+END;ACESSE+MEU+PORTFÓLIO;SEJA+BEM+VINDO!+♥)](https://git.io/typing-svg)
-<img align="right" height="150" src="https://i.imgflip.com/6nw7x1.gif"  />
-###
+
 
 <h2 align="left">Mais sobre mim:</h2>
 
 
 ###
 
-- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas no Centro Acadêmico <i>FMU</i>
+- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas
 - 💻 Meu portfólio: https://portfolio-camila.netlify.app
 - 😄 Pronomes: Ela/Dela
 
