@@ -9,7 +9,6 @@
 
 ###
 
-- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas
 - 💻 Meu portfólio: https://portfolio-camila.netlify.app
 - 😄 Pronomes: Ela/Dela
 
